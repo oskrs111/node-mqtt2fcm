@@ -1,0 +1,20 @@
+{
+  "name": "node-mqtt2fcm",
+  "version": "0.0.1",
+  "description": "Node.js based application to generate Push Notifications triggered by MQTT events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskrs111/node-mqtt2fcm.git"
+  },
+  "author": "Oscar Sanz Llopis",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.15.0",
+    "request": "^2.83.0",
+    "time-stamp": "^2.2.0"
+  }
+}

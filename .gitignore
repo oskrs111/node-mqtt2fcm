@@ -1,6 +1,11 @@
+# Configuration files
+config.js
+package-lock.json
+
 # Logs
 logs
 *.log
+*.ignore
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
